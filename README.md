@@ -1,28 +1,21 @@
-👋 Hi, I’m @sayedsafi2000
-Junior Web Developer
+👋 Hi, I’m Sayed Safi
+Working as Web Developer at Asad Snapper.
 
 <h1 align="center">Hi 👋, I'm Sayed Safi</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedsafi2000&label=Profile%20views&color=0e75b6&style=flat" alt="sayedsafi2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayedsafi2000" alt="sayedsafi2000" /></a> </p>
 
-- 🔭 I’m currently working on [Gedget & Gears](https://gadgetandgears-926c0.web.app/)
-
-- 🤝 I’m looking for help with **Google**
-
-- 💬 Ask me about **react,mongodb,nodejs**
-
-- 📫 How to reach me **safiuddin102030@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VRRc9_H47fdPgg8mCNjQ7kawO3c4NoWh/view?usp=share_link](https://drive.google.com/file/d/1VRRc9_H47fdPgg8mCNjQ7kawO3c4NoWh/view?usp=share_link)
-
+- 🔭 I’m currently working on Musafir Store front | E-commerce Website
+- 💬 Ask me about **Website base Project**
+- 📫 How to reach me **sayedmdsafiuddin@gmail.com**
+- 📄 Know about my experiences sayed-safi.netlify.app
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sayed-safi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayed-safi" height="30" width="40" /></a>
-<a href="https://fb.com/safiuddin2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiuddin2000/" height="30" width="40" /></a>
-<a href="https://instagram.com/sayedsafi2000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayedsafi2000/" height="30" width="40" /></a>
+<a href="https://fb.com/sayedsafiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiuddin2000/" height="30" width="40" /></a>
+<a href="https://instagram.com/sayedsafiii/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayedsafi2000/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
