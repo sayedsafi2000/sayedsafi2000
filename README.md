@@ -11,7 +11,7 @@ Working as Web Developer at Asad Snapper.
 - 💬 Ask me about **Website base Project**
 - 📫 How to reach me **sayedmdsafiuddin@gmail.com**
 - 📄 Know about my experiences <a href="sayed-safi.netlify.app"><h3>sayed-safi.netlify.app</h3> </a> </br>
-<a>Hi, I’m Sayed Safi, a web developer specializing in React and Next.js.  </a> </br>
+
 Connect with me on:  
 <p align="left">
 <a href="https://linkedin.com/in/sayed-safi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayed-safi" height="30" width="40" /></a>
