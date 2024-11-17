@@ -10,7 +10,7 @@ Working as Web Developer at Asad Snapper.
 - 🔭 I’m currently working on Musafir Store front | E-commerce Website
 - 💬 Ask me about **Website base Project**
 - 📫 How to reach me **sayedmdsafiuddin@gmail.com**
-- 📄 Know about my experiences sayed-safi.netlify.app
+- 📄 Know about my experiences <a>sayed-safi.netlify.app</a> </br>
 <a>Hi, I’m Sayed Safi, a web developer specializing in React and Next.js.  </a> </br>
 Connect with me on:  
 <p align="left">
